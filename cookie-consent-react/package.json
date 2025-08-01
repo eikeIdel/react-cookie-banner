@@ -1,0 +1,29 @@
+{
+  "name": "@eked/cookie-consent-react",
+  "version": "1.0.2",
+  "description": "A GDPR-compliant React cookie consent banner with dynamic service control",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "cookie",
+    "consent",
+    "react",
+    "gdpr",
+    "typescript"
+  ],
+  "author": "eked",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": ">=18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

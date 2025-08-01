@@ -3,7 +3,7 @@ import {
   ConsentProvider,
   CookieBanner,
   ConsentGate,
-} from '@eked/cookie-consent-react';
+} from '../cookie-consent-react/dist';
 
 function App() {
   return (
