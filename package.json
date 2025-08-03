@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@eked/cookie-consent-react": "^1.0.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "@eked/cookie-consent-react": "file:./cookie-consent-react"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
